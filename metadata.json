@@ -1,0 +1,7 @@
+{
+  "name": "DesignFlow - Layout & Typography Pro",
+  "description": "A high-end design tool for non-designers to improve layouts, typography, and visual hierarchy using professional UI patterns and AI-powered feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
